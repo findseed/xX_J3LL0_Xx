@@ -1,0 +1,5 @@
+silly files:
+(startPos,startSpeed,startGliderPos,totalFrames,goodDrop%,adjustmentFrames)
+
+stupid files:
+(startPos,startSpeed,startGliderPos,totalFrames,goodDrop%)
